@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Version 2 app
+          Video demo
         </a>
       </header>
     </div>
